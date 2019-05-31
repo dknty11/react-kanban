@@ -70,4 +70,10 @@
       background: $dark-pink;
     }
   }
+  &.yellow {
+    background: $yellow;
+    &:focus {
+      background: $dark-yellow;
+    }
+  }
 }
