@@ -1,0 +1,4 @@
+deploy:
+  provider: azure_web_apps
+  on:
+    node: '10.14'
